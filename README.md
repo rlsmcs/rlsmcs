@@ -5,6 +5,4 @@
 
 ---
 
-### Stats
-![rlsmcs's Stats](https://github-readme-stats.vercel.app/api?username=rlsmcs&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlsmcs&layout=compact&theme=transparent&hide_border=true)
+
